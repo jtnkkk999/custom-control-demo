@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.liuzhaoliang.hencoder6.MainActivity">
+
+    <!--<com.liuzhaoliang.hencoder6.DashBoard-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+
+    <!--<EditText-->
+    <!--android:id="@+id/et"-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_alignParentBottom="true"/>-->
+    <!--<Button-->
+    <!--android:id="@+id/bt"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@+id/et"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--android:text="运行"/>-->
+    <!--<com.liuzhaoliang.hencoder6.PieImage-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<com.liuzhaoliang.hencoder6.CicleImage-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<com.liuzhaoliang.hencoder6.RunCircle-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+    <!--<com.liuzhaoliang.hencoder6.ImageTextView-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+
+
+    <!--<com.liuzhaoliang.hencoder6.Animation-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent" />-->
+
+    <!--作业八-->
+    <!--<FrameLayout-->
+    <!--android:id="@+id/fl"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#40000000">-->
+
+    <!--<com.liuzhaoliang.hencoder6.MaterialEditText-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:hint="UserName" />-->
+    <!--</FrameLayout>-->
+
+    <!--<FrameLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_below="@+id/fl"-->
+
+    <!--&gt;-->
+
+    <!--<com.liuzhaoliang.hencoder6.MyEditetext-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--app:useModle="true"-->
+    <!--app:foucusColor="@color/colorPrimary"-->
+    <!--app:LeftBitMap="@drawable/ic_launcher"-->
+    <!--android:hint="UserNmae" />-->
+    <!--</FrameLayout>-->
+    <!--作业九-->
+    <!--<com.liuzhaoliang.hencoder6.SquareImageView-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="200dp"-->
+    <!--android:layout_height="300dp"-->
+    <!--android:scaleType="centerCrop"-->
+    <!--android:src="@drawable/touxiang" />-->
+
+    <!--<com.liuzhaoliang.hencoder6.CircleView-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content" />-->
+
+    <!--<com.liuzhaoliang.hencoder6.TagLayout2-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#ff0000">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈哈哈哈哈哈哈哈啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:padding="10dp"-->
+    <!--android:singleLine="true"-->
+    <!--android:background="#00B0FF"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈哈哈哈哈哈哈哈啊"-->
+    <!--android:padding="10dp"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:singleLine="true"-->
+    <!--android:background="#2979FF"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈哈哈哈哈啊"-->
+    <!--android:padding="10dp"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:background="#00B0FF"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈"-->
+    <!--android:padding="10dp"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:background="#00B0FF"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈哈哈哈哈"-->
+    <!--android:padding="10dp"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:background="#00B0FF"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈"-->
+    <!--android:padding="10dp"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:background="#00B0FF"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈哈哈哈"-->
+    <!--android:padding="10dp"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:background="#00B0FF"/>-->
+    <!--<TextView-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈哈哈啊"-->
+    <!--android:padding="10dp"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:background="#00B0FF"/>-->
+    <!--</com.liuzhaoliang.hencoder6.TagLayout2>-->
+
+    <!--<com.liuzhaoliang.hencoder6.LayoutView-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:src="@drawable/touxiang"/>-->
+    <!--作业十一-->
+    <!--<com.liuzhaoliang.hencoder6.ScalableImage2-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#F50057"/>-->
+
+    <!--作业十二-->
+    <!--<com.liuzhaoliang.hencoder6.class12.MyTouchLayout-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:background="#F50057"/>-->
+    <!--<TextView-->
+    <!--android:id="@+id/tv"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="哈哈哈哈哈"/>-->
+    <!--<com.liuzhaoliang.hencoder6.class12.MoveTitleView-->
+    <!--android:id="@+id/db"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="100dp"-->
+    <!--android:layout_toRightOf="@id/tv"-->
+    <!--android:padding="10dp"-->
+    <!--android:background="#F50057"/>-->
+    <!--<TextView-->
+    <!--android:id="@+id/tv2"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_toRightOf="@id/db"-->
+    <!--android:text="哈哈哈哈哈"/>-->
+    <!--单身狗-->
+    <com.liuzhaoliang.dog.singleDog
+        android:id="@+id/db"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="go"/>
+
+
+</RelativeLayout>

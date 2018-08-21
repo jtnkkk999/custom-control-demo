@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyEditetext">
+        <attr name="useModle" format="boolean"></attr>
+        <attr name="foucusColor" format="color"></attr>
+       <attr name="LeftBitMap" format="reference"></attr>
+    </declare-styleable>
+    <!--<declare-styleable name="MoveTitleView">-->
+        <!--<attr name=""-->
+    <!--</declare-styleable>-->
+</resources>
